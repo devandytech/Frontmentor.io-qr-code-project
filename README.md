@@ -1,2 +1,2 @@
-# Frontmentor.io-qr-code-project
+# qrcodeproject.io
 A complete frontmentor.io project of a qr code. 
